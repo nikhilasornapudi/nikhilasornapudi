@@ -2,6 +2,6 @@
 
 #### ◦  🐳 I am currently an undergraduate Student in Computer Science and Enginnering in SRM University, AP with a specialization in Artificial     Intelligence and Machine Learning.
 
-#### ◦  🍁 Currently learning Java FullStack.
+#### ◦  🍁 Currently learning Python FullStack.
 
 #### ◦  🗡️ Skills: Java, Python, C++, HTML, CSS.
