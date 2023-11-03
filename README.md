@@ -15,7 +15,7 @@
 - 💬 Ask me about **related to Frontend and it's technologies**
   
 
-- 📫 How to reach me **nikhila2410@gmail.com**
+- 📫 How to reach me **nikhila_sornapudi@srmap.edu.in**
 
 ![](https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif)
 
