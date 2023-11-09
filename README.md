@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development** 
   
 
-- 💬 Ask me about **related to Frontend and it's technologies**
+- 💬 Ask me about anything **related to Frontend and it's technologies**
   
 
 - 📫 How to reach me **nikhila_sornapudi@srmap.edu.in**
