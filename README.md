@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="center" height="60" width="60" />
-</div>  
-  
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="center" height="60" width="60" /><br><br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+</div>
 
 ### **<div align="center">Hey there, I'm Nikhila Sornapudi, a frontend web developer 👨‍💻 working remotely since 2021 🚀</div>**  
   
