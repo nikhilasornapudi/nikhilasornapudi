@@ -7,15 +7,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Nikhila Sornapudi</h1>
-<h3 align="center">a Mobile App developer 👨‍💻 working remotely since 2021 🚀</h3> 
+<h3 align="center">Crafting Mobile Experiences Remotely ✨ Let's Build Something Amazing! 🚀</h3> 
 
-- 🌱 I’m currently learning **Mobile Application Development**
+- 🌱 Currently expanding my skillset in **Mobile Application Development**
 
 - 👨‍💻 All of my projects are available at [nikhilasornapudi.app](https://nikhilasornapudi.vercel.app/)
 
 - 💬 Ask me about **anything related to Application Development and it's technologies**
 
-- 📫 How to reach me **nikhila_sornapudi@srmap.edu.in**
+- 📫 How to reach me **nikhila2410@gmail.com**
 
 <br/>  
 
@@ -57,38 +57,3 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://twitter.com/n_sornapudi" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="twitter" width="90" height="90" />
-</a>
-<a href="https://linkedin.com/in/nikhilasornapudi" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" width="90" height="90" />
-</a>
-<a href="https://www.facebook.com/n_sornapudi" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="facebook" width="90" height="90" />
-</a>
-<a href="https://instagram.com/n_sornapudi" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="instagram" width="90" height="90" />
-</a>  
-</div>  
-
-<br>
-
-## Github Stats
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nikhilasornapudi&show_icons=true&locale=en" alt="nikhilasornapudi" style="float: left; width: 45%; height: 200px; margin-right: 10%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilasornapudi&show_icons=true&locale=en&layout=compact" alt="nikhilasornapudi" style="float: right; width: 45%; height: 193px;" />
-</p>
-
-<p style="clear: both; text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilasornapudi&" alt="Pinned Repo" style="width: 600px; height: 200px; display: block; margin: auto;" />
-</p>
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" align="center" height="10" width="1000" />
-
-<div align="center">
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzMDA2NTEsIm5iZiI6MTcxODMwMDM1MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjEzVDE3MzkxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyMzUxZTNjNjZiOTA1Y2U0MTU4NDg2ZDgxM2MyNWNiYmRkMmMwNzNiZTFlM2I5OTNlOGM2MDllODFkOTYzYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OdgOBTxxdk1WY5jwugQ9aHH3p65G2KNHfIyocMPYE64" align="center" height="150" width="1000" />
